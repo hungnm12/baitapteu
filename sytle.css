@@ -5,11 +5,13 @@
     font-family: poppins;
 }
 
-a{
+a{  color: #ef027d;
     text-decoration: none;
 }
 
 ul{
+    font-weight: 800;
+    color: #ef027d;
     list-style: none;
 }
 
@@ -18,6 +20,11 @@ body{
     padding: 0px;
     font-family: poppins;
 }
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+  }
 
 #tuan4{
     display: flex;
